@@ -12,8 +12,8 @@ Regions:
     Priority: 10
     Icon: BEDROCK
     Announce-Enter:
-      Title: false
-      Actionbar: false
+      Title: true
+      Actionbar: true
     Block:
       Interact: true
       Break: true
